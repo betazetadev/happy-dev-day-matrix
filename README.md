@@ -14,7 +14,7 @@ This project showcases a simple web-based animation inspired by the "Matrix" fal
 
 1. Download or clone the repository.
 ```bash
-   git clone https://github.com/yourusername/matrix-typing-animation.git
+   git clone https://github.com/betazetadev/happy-dev-day-matrix.git
 ```
 
 2. Open index.html in a web browser to view the animation.
