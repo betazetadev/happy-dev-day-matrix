@@ -14,7 +14,6 @@ This project showcases a simple web-based animation inspired by the "Matrix" fal
 ```bash
 
    git clone https://github.com/yourusername/matrix-typing-animation.git
-   
 ```
 
 2. Open index.html in a web browser to view the animation.
