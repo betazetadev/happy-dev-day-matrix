@@ -2,6 +2,8 @@
 
 This project showcases a simple web-based animation inspired by the "Matrix" falling code effect. It features green cascading characters and a "Happy Programmer's Day" message that appears with a typing effect, accompanied by a blinking cursor. The text moves off-screen before repeating the animation.
 
+![A simple web-based animation inspired by the "Matrix" falling code effect. It features green cascading characters and a "Happy Programmer's Day" message.](index.gif)
+
 ## Features
 
 - **Matrix-style falling code:** Continuous animation of random green characters cascading vertically across the screen.
